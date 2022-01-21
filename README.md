@@ -5,7 +5,7 @@ This custom plug and play dashboard extension allow users to perform Publish, Un
 Developers have the option to host the app on their own hosting provider or use a pre-hosted URL available below.
 
 #### Host the app
-1. Clone [Html Code](https://github.com/Contentstack-Solutions/bulk-operation-extension-react.git).
+1. Clone https://github.com/Contentstack-Solutions/bulk-operation-extension-react.git
 2. Run NPM install.
 3. Host the application.
 4. Get the URL that points to the hosted application.

@@ -13,7 +13,7 @@ Developers have the option to host the app on their own hosting provider or use 
 6. Choose Hosting Method as 'External Hosting'.
 7. Add the URL in External hosting URL.
 
-#### Option 2: Use pre-hosted URL
+#### Option 2: Use a pre-hosted URL
 1. Set Default state to Full Width.
 2. Choose Hosting Method as 'External Hosting'.
 3. Add the URL https://bulk-publishing-extension-react.vercel.app/ in External hosting URL.

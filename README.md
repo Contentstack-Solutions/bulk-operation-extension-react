@@ -1,7 +1,7 @@
 ## Bulk Operation Extension React App
 This custom dashboard extension allow users to perform Publish, Unpublish, and Delete actions in bulk. This extension will also work for custom fields extension if dashboard extension is not part of your plan.
 
-### Steps:
+### Installation:
 Developers can host the app on their own or use a hosting URL provided below.
 
 #### Host the app

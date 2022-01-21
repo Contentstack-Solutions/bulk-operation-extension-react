@@ -30,3 +30,4 @@ Developers have the option to host the react app using their own hosting provide
 2. Be able to perform actions on Assets.
 3. Filter list of entries & assets by date range.
 4. Lazy load pagination for table to enchance performance.
+5. Ascending and descending column content.

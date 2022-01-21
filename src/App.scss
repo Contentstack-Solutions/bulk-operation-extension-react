@@ -1,0 +1,41 @@
+body {
+  overflow: hidden!important;
+}
+
+.app-container {
+  height: '807px';
+}
+
+.container {
+  padding: 0 1em 1em 1em;
+
+  .alert-bar {
+    margin-bottom: 1.5em;
+    background-color: #6c5ce7;
+    color: #fff;
+  }
+
+  .content-type-select-list, .environment-select-list {
+    margin-right: 1em;
+  }
+  
+  .btn-row {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  
+    button {
+      margin-right: 1em;
+    }
+
+    .delete-btn {
+      color: #fff!important;
+    }
+    
+  }
+
+  .Table {
+    height: 530px;
+    min-height: 0;
+  }
+  
+}

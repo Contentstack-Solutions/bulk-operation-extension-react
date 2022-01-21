@@ -26,5 +26,6 @@ Developers have the option to host the react app using their own hosting provide
 ![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension-settings-v2.png)
 
 #### Future add ons
-1. Be able to perform actions on Assets.
-2. Filter list of entries & assets by date range.
+1. Option to add a version.
+2. Be able to perform actions on Assets.
+3. Filter list of entries & assets by date range.

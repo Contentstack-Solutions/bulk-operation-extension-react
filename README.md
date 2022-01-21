@@ -15,10 +15,12 @@ Developers have the option to host the react app on their own hosting provider o
 5. In extension settings, set Default State to Full Width.
 6. Choose Hosting Method as 'External Hosting'.
 7. Add the URL in External hosting URL.
+8. Enable Dashboard Widget.
 
 #### Option 2: Use a pre-hosted URL
 1. In extension settings, set Default State to Full Width.
 2. Choose Hosting Method as 'External Hosting'.
 3. Add the URL https://bulk-publishing-extension-react.vercel.app/ in External hosting URL.
+4. Enable Dashboard Widget.
 
 ![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension-settings.png)

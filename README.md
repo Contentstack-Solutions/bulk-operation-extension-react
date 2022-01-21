@@ -24,3 +24,7 @@ Developers have the option to host the react app using their own hosting provide
 4. Enable Dashboard Widget.
 
 ![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension-settings-v2.png)
+
+#### Future add ons
+1. Be able to perform actions on Assets.
+2. Filter list of entries & assets by date range.

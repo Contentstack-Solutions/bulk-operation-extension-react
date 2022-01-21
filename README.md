@@ -4,7 +4,7 @@ This custom plug and play dashboard extension allow users to perform Publish, Un
 
 ![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension.png) 
 
-### Installation:
+### Installation
 Developers have the option to host the react app using their own hosting provider or use a pre-hosted URL available below.
 
 #### Option 1: Serve the app using your own hosting service provider

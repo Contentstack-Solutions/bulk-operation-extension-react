@@ -23,4 +23,4 @@ Developers have the option to host the react app using their own hosting provide
 3. Add the URL https://bulk-operation-extension-react.vercel.app/ in External hosting URL.
 4. Enable Dashboard Widget.
 
-![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension-settings.png)
+![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension-settings-v2.png)

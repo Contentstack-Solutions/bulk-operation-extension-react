@@ -29,3 +29,4 @@ Developers have the option to host the react app using their own hosting provide
 1. Option to add a version.
 2. Be able to perform actions on Assets.
 3. Filter list of entries & assets by date range.
+4. Lazy load pagination for table to enchance performance.

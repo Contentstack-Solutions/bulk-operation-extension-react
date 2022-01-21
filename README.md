@@ -1,6 +1,8 @@
 ## Bulk Operation Extension React App
 This custom plug and play dashboard extension allow users to perform Publish, Unpublish, and Delete actions in bulk. This extension will also work for custom fields extension if dashboard extension is not part of your plan.
 
+![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension.png) 
+
 ### Installation:
 Developers have the option to host the app on their own hosting provider or use a pre-hosted URL available below.
 
@@ -19,5 +21,3 @@ Developers have the option to host the app on their own hosting provider or use 
 3. Add the URL https://bulk-publishing-extension-react.vercel.app/ in External hosting URL.
 
 ![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension-settings.png)
-
-![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension.png) 

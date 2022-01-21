@@ -1,4 +1,4 @@
-## Bulk Operation Extension React App 
+## Bulk Operation Extension
 #### Version 1.0.0
 This custom plug and play dashboard extension allow users to perform Publish, Unpublish, and Delete actions in bulk for Entries. This extension will also work for custom fields extension if dashboard extension is not part of your plan.
 

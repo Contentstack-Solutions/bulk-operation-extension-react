@@ -15,8 +15,6 @@ Developers can host the app on their own or use a hosting URL provided below.
 2. Choose Hosting Method as 'External Hosting'.
 3. Add URL https://bulk-publishing-extension-react.vercel.app/ in External hosting URL.
 
-Screenshot of extension settings.
 ![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension-settings.png)
 
-Screenshot of the extension.
 ![Docx_to_HTML](https://github.com/Contentstack-Solutions/some-extensions/blob/main/assets/bulk-operation-extension.png) 

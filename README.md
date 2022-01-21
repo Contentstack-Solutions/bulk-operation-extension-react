@@ -4,7 +4,7 @@ This custom plug and play dashboard extension allow users to perform Publish, Un
 ### Installation:
 Developers have the option to host the app on their own hosting provider or use a pre-hosted URL available below.
 
-#### Host the app
+#### Option 1: Host the app
 1. git clone https://github.com/Contentstack-Solutions/bulk-operation-extension-react.git
 2. Run NPM install.
 3. Host the application.
@@ -13,7 +13,7 @@ Developers have the option to host the app on their own hosting provider or use 
 6. Choose Hosting Method as 'External Hosting'.
 7. Add the URL in External hosting URL.
 
-#### Use pre-hosted URL
+#### Option 2: Use pre-hosted URL
 1. Set Default state to Full Width.
 2. Choose Hosting Method as 'External Hosting'.
 3. Add the URL https://bulk-publishing-extension-react.vercel.app/ in External hosting URL.

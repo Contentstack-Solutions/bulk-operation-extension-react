@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@contentstack/ui-extensions-sdk": "^2.2.0",
-    "@contentstack/venus-components": "^1.0.0",
+    "@contentstack/venus-components": "^1.0.6",
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
     "@testing-library/jest-dom": "^5.15.0",
